@@ -1,8 +1,8 @@
 import numpy as np
-import matplotlib.pyplot as plt
-import scipy
-from PIL import Image
-from scipy import ndimage
+#import matplotlib.pyplot as plt
+#import scipy
+#from PIL import Image
+#from scipy import ndimage
 from lr_utils import load_dataset
 from ioreg_funcs import *
 
