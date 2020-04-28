@@ -6,3 +6,9 @@ class DeepNN:
 
   def train(self, x_train, y_train):
     return 0
+
+  def evaluate(self):
+    return 0
+
+  def initialize(self):
+    return 0
